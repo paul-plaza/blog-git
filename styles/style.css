@@ -11,7 +11,13 @@ body {
 }
 
 #header {
-    color: white;
-    background-color: blueviolet;
+    box-shadow: 3px 3px green;
+    border: 1px solid green;
     padding: 2em;
+    color: white;
+    background-color: yellowgreen;
+}
+
+#header h1 {
+    display: inline;
 }

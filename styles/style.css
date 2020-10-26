@@ -1,0 +1,23 @@
+body {
+    color: pink;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    border: solid gray 1px;
+    margin: 30px;
+    padding: 1em;
+}
+
+#header {
+    box-shadow: 3px 3px green;
+    border: 1px solid green;
+    padding: 2em;
+    color: white;
+    background-color: yellowgreen;
+}
+
+#header h1 {
+    display: inline;
+}
